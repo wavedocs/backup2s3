@@ -40,7 +40,7 @@ setup(
     url="https://github.com/wavedocs/backup2s3",
     download_url="https://github.com/wavedocs/backup2s3/archive/0.1.tar.gz",
     keywords=["backup", "s3", "mysql"],
-    long_description=open("README.txt").read(),
+    long_description=open("README").read(),
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Topic :: System :: Archiving :: Backup',
